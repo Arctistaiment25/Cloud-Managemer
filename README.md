@@ -1,16 +1,16 @@
-## OpsecDB
+## Cloud Manager
 
-A Opensource Advanced IP Grabber with Discord Support.
+A Opensource Homemade Cloud.
 
-### Manager Site
+### FIle Supports
 ```
-https://yourdomain/manage.php
+txt, pdf, docx, pptx, png, jpg, jpeg, mp3, mp4, mov, wav
 ```
 
 ## CREDITS ##
 Author: Arctis
 
 ## How to Use ##
-Host the php files.
-Create a table in your Database named logger and then put the sql into your Database.
+Host the php files on a Second machine.
+Setup the  Save Paths and Enjoy your new Cloud!
 **
