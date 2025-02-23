@@ -1,0 +1,9 @@
+{
+    "paths": {
+        "documents": "C:\\Users\\bboue\\OneDrive\\Desktop\\path\\docs",
+        "images": "C:\\Users\\bboue\\OneDrive\\Desktop\\path\\img",
+        "audio": "C:\\Users\\bboue\\OneDrive\\Desktop\\path\\audio",
+        "videos": "C:\\Users\\bboue\\OneDrive\\Desktop\\path\\vid"
+    },
+    "allowed_extensions": ["txt", "pdf", "docx", "pptx", "png", "jpg", "jpeg", "mp3", "mp4", "mov", "wav"]
+}
